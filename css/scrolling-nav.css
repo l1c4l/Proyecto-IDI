@@ -1,0 +1,28 @@
+@font-face {
+  font-family: "Spaceland";
+  src: url("./../fonts/Pepper\ Type\ -\ Spaceland-TenOblique.otf");
+}
+section {
+  padding: 50px 0;
+}
+.navbar-image {
+  height: 4rem;
+}
+.nav-item {
+  margin: auto;
+}
+.ff-impact {
+  font-family: SpaceLand;
+}
+.card-title {
+  font-size: 3rem;
+}
+.mas {
+  font-size: 6rem;
+}
+.fz-1r {
+  font-size: 1.3rem;
+}
+.card-link {
+  color: skyblue;
+}
